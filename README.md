@@ -5,5 +5,7 @@ Received total Wide band Power (RTWP) is the level of noise withing the frequenc
 The objectives of this project were: 
 1. To determine which cells suffer from internal interference for the field teams to resolve.
 2. To determine cells suffering from external interference.
+
 DBSCAN algorithm was used because it proved more versatile to arbitrary distances.
+
 The output of model was evaluated against the categories provided by the engineers and it proved satisfactory.
